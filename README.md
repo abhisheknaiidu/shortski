@@ -5,7 +5,7 @@
 </div>
 <hr>
 
-### Fed up of Copy and Pasting `urls`, `emoticons`, `icons` when filling up application forms or organizing any other things??
+### Fed up of copy and pasting `urls`, `emoticons`, `icons` when filling up application forms or organizing any other things??
 
 ## Here's the solution: 👇🏽
 
@@ -24,5 +24,6 @@ How to install:
 <hr>
 
 - Download the `shortski.plist` file.
-- Navigate to System Preferences → Keyboard → Text
+- Change username's and url's for all the handle's and add your's :p
+- Save it and Navigate to System Preferences → Keyboard → Text
 - Drag and drop the downloaded `shortski.plist` to the `text` window.
