@@ -4,9 +4,9 @@
 
 </div>
 
-## fed up of copy and pasting `urls`, `emoticons`, `icons` when filling up application forms or organizing any other things??
+#### fed up of copy and pasting urls, emoticons and icons when filling up application forms or organizing any other things??
 
-## here's the solution: 👇🏽
+#### here's the easy way to do: 👇🏽
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## installation:
+### installation:
 
 how to install:
 
