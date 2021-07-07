@@ -3,13 +3,10 @@
 <img alt="shortski" style="object-fit: cover; width:400px; height:180px;" src="assets/shortski_logo.gif"> </img>
 
 </div>
-<hr>
 
-### Fed up of copy and pasting `urls`, `emoticons`, `icons` when filling up application forms or organizing any other things??
+## fed up of copy and pasting `urls`, `emoticons`, `icons` when filling up application forms or organizing any other things??
 
-## Here's the solution: 👇🏽
-
-<hr>
+## here's the solution: 👇🏽
 
 <div align="center">
 
@@ -17,13 +14,11 @@
 
 </div>
 
-## Installation:
+## installation:
 
-How to install:
+how to install:
 
-<hr>
-
-- Download the `shortski.plist` file.
-- Change username's and url's for all the handle's and add your's :p
-- Save it and Navigate to System Preferences → Keyboard → Text
-- Drag and drop the downloaded `shortski.plist` to the `text` window.
+- download the `shortski.plist` file.
+- change username and url's for all the handle's and add your's 😛
+- save it and navigate to system preferences → keyboard → text
+- drag and drop the downloaded `shortski.plist` to the `text` window and 🎉

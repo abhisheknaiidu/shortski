@@ -2,6 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <array>
+
         <!--Web Links-->
         <dict>
             <key>phrase</key>
@@ -41,11 +42,12 @@
         </dict>
         <dict>
             <key>phrase</key>
-            <string>https://blog.abhisheknaidu.tech/</string>
+            <string>https://abhishknads.me/</string>
             <key>shortcut</key>
             <string>:blog:</string>
         </dict>
-        <!--Emoticons -->       
+
+        <!--Emoticons --> 
         <dict>
             <key>phrase</key>
             <string>( ͡° ͜ʖ ͡°)</string>
@@ -88,12 +90,225 @@
             <key>shortcut</key>
             <string>:unequal:</string>
         </dict>
+
         <!--Emoji's -->
         <dict>
             <key>phrase</key>
             <string>🎉</string>
             <key>shortcut</key>
-            <string>:popper:</string>
-        </dict> 
+            <string>:tada:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🏠</string>
+            <key>shortcut</key>
+            <string>:house:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🙈</string>
+            <key>shortcut</key>
+            <string>:see_no_evil:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🙂</string>
+            <key>shortcut</key>
+            <string>:smiling_face:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🥲</string>
+            <key>shortcut</key>
+            <string>:smiling_face_tear:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>😞</string>
+            <key>shortcut</key>
+            <string>:dissapointed:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>😱</string>
+            <key>shortcut</key>
+            <string>:shocked:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🚀</string>
+            <key>shortcut</key>
+            <string>:rocket:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🙌🏼</string>
+            <key>shortcut</key>
+            <string>:raise_hands:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🤯</string>
+            <key>shortcut</key>
+            <string>:mind_blown:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🙏🏼</string>
+            <key>shortcut</key>
+            <string>:pray:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🤷🏽‍♂️</string>
+            <key>shortcut</key>
+            <string>:man_shrug:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>👀</string>
+            <key>shortcut</key>
+            <string>:eyes:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🔥</string>
+            <key>shortcut</key>
+            <string>:fire:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>😅</string>
+            <key>shortcut</key>
+            <string>:sweat_smile:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>😛</string>
+            <key>shortcut</key>
+            <string>:p:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>😂</string>
+            <key>shortcut</key>
+            <string>:joy:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🤣</string>
+            <key>shortcut</key>
+            <string>:rofl:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🤔</string>
+            <key>shortcut</key>
+            <string>:thinking:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>🥺</string>
+            <key>shortcut</key>
+            <string>:plead_face:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>👍🏼</string>
+            <key>shortcut</key>
+            <string>:thumbs_up:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>👋🏼</string>
+            <key>shortcut</key>
+            <string>:hey:</string>
+        </dict>
+
+        <!--Arrows-->
+        <dict>
+            <key>phrase</key>
+            <string>⬆️</string>
+            <key>shortcut</key>
+            <string>:arrow_up:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⬇️</string>
+            <key>shortcut</key>
+            <string>:arrow_down:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↑</string>
+            <key>shortcut</key>
+            <string>:ar-up:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↓</string>
+            <key>shortcut</key>
+            <string>:ar-dn:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>←</string>
+            <key>shortcut</key>
+            <string>:ar-l:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>→</string>
+            <key>shortcut</key>
+            <string>:ar-r:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↖</string>
+            <key>shortcut</key>
+            <string>:ar-nw:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↗</string>
+            <key>shortcut</key>
+            <string>:ar-ne:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↘</string>
+            <key>shortcut</key>
+            <string>:ar-se:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>↙</string>
+            <key>shortcut</key>
+            <string>:ar-sw:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>▲</string>
+            <key>shortcut</key>
+            <string>:ar-p-up:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>▶</string>
+            <key>shortcut</key>
+            <string>:ar-p-r:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>▼</string>
+            <key>shortcut</key>
+            <string>:ar-p-dn:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>◀</string>
+            <key>shortcut</key>
+            <string>:ar-p-l:</string>
+        </dict>
     </array>
 </plist>
