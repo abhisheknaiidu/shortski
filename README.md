@@ -1,7 +1,8 @@
-<div align="center">
-
+<div align="center" style="display: flex; flex-direction: row;">
+  <a href="https://www.producthunt.com/posts/shortski?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-shortski" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=303556&theme=light" alt="Shortski - Mac OS keyboard substitution for URLs, emojis, icons | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</div>
+<div align="center" style="display: flex; flex-direction: row;">
 <img alt="shortski" style="object-fit: cover; width:400px; height:180px;" src="assets/shortski_logo.gif"> </img>
-
 </div>
 
 #### fed up of copy and pasting urls, emoticons and icons when filling up application forms or organizing any other things??
