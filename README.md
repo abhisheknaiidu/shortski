@@ -6,7 +6,7 @@
 
 #### fed up of copy and pasting urls, emoticons and icons when filling up application forms or organizing any other things??
 
-#### here's the easy way to do: 👇🏽
+#### here's the easy way to do: 👇🏽 
 
 <div align="center">
 
